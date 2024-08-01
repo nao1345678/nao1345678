@@ -1,4 +1,3 @@
-- 👋 Hi, my name is Naledi, but everyone calls me Nao!
 - 🖌️ I’m interested in coding and painting, and both kind of mean creating, so I guess I like creating stuff!
 - 💻 I’m currently learning computer science.
 - 🏫 French/English
