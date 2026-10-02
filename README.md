@@ -1,6 +1,20 @@
-- 🖌️ I’m interested in coding and painting, and both kind of mean creating, so I guess I like creating stuff!
-- 💻 I’m currently learning computer science.
-- 🏫 French/English
+# Hi, I'm Naledi
+
+**Software developer** pursuing a Master's in **Information Systems Architecture** at ETNA (Paris).
+
+- 💼 Spent 1.5 years as a Software & Web Developer at **RTE** (French electricity transmission operator), working on Java/Python backend services built on [PowSyBl](https://www.powsybl.org/) and Angular frontends
+- 🎓 Bachelor's degree in Application Design & Development (ETNA)
+- 🔍 Currently looking for a **work-study (alternance) position** in Île-de-France
+- 🎨 Outside of code, I paint, and I like building things in both worlds
+
+### 🛠️ Tech stack
+**Languages:** Java · Python · TypeScript · JavaScript
+**Frameworks:** Angular · React/React Native
+
+### 📫 Contact
+elcheikhnaledi@gmail.com
+
+🌍 French / English
 
 <!---
 nao1345678/nao1345678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
