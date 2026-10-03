@@ -11,9 +11,6 @@
 **Languages:** Java · Python · TypeScript · JavaScript
 **Frameworks:** Angular · React/React Native
 
-### 📫 Contact
-elcheikhnaledi@gmail.com
-
 🌍 French / English
 
 <!---
